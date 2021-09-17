@@ -1,9 +1,9 @@
 color_class,color
 primary,#ffb500
 secondary,#ffb500
-success,#ffb500
-info,#ffb500
-warning,#ffb500
-danger,#ffb500
+success,
+info,
+warning,
+danger,
 light,#ffb500
-dark,#ffb500
+dark,
